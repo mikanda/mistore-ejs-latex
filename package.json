@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ejs": "git://github.com/visionmedia/ejs.git",
+    "node-tex": "*",
+    "escape-latex": "*"
+  },
+  "devDependencies": {
+    "string-stream": "*",
+    "should": "*"
+  }
+}

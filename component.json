@@ -1,0 +1,15 @@
+{
+  "name": "mistore-ejs-latex",
+  "repo": "domachine/mistore-ejs-latex",
+  "description": "A mistore-backend for latex-escaped ejs documents.",
+  "version": "0.0.1",
+  "keywords": [ "mistore", "ejs", "latex" ],
+  "dependencies": {
+    "domachine/mistore": "*"
+  },
+  "development": {},
+  "license": "GPL",
+  "scripts": [
+    "index.js"
+  ]
+}

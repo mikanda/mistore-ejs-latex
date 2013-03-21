@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [ "mistore", "ejs", "latex" ],
   "dependencies": {
-    "domachine/mistore": "*"
+    "mikanda/mistore": "*"
   },
   "development": {},
   "license": "GPL",

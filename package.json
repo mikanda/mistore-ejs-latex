@@ -1,7 +1,7 @@
 {
   "name": "mistore-ejs-latex",
   "description": "A mistore-backend for latex-escaped ejs documents.",
-  "version": "0.0.1-1",
+  "version": "0.1.0-0",
   "license": "GPL",
   "dependencies": {
     "mistore": "*",
